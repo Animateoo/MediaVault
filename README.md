@@ -4,8 +4,6 @@
 
 **Panel CEP para After Effects y Premiere Pro que centraliza tu biblioteca de medios, con preview, importación inteligente y acceso directo al timeline.**
 
-*MediaVault by Animateoo*
-
 ---
 
 ## Descripción corta (para GitHub)
