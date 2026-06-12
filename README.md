@@ -207,12 +207,6 @@ La configuración del usuario se guarda en:
 
 ---
 
-## Licencia
-
-Consulta el archivo `LICENSE` en este repositorio (si aplica).
-
----
-
 ## Autor
 
 **MediaVault** — creado por **Animateoo**
