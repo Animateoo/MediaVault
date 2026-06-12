@@ -1,8 +1,8 @@
 # MediaVault
-<img width="1011" height="517" alt="MediaVault" src="https://github.com/user-attachments/assets/4a7de7e1-2198-40fa-b983-8490b2633c6f" />
-
 
 **Panel CEP para After Effects y Premiere Pro que centraliza tu biblioteca de medios, con preview, importación inteligente y acceso directo al timeline.**
+
+*MediaVault by Animateoo*
 
 ---
 
@@ -30,7 +30,7 @@ En **Premiere Pro**, los imports van al bin **MediaVault** del panel de proyecto
 - Vista lista o cuadrícula con mini formas de onda (audio)
 - Preview con volumen, scrubbing y barra redimensionable
 - Doble clic o botón para importar / añadir al timeline
-- Arrastrar fuera del panel → insertar en timeline (Premiere)
+- Arrastrar fuera del panel → insertar en timeline (After Effects y Premiere)
 - Copia opcional a `(Footage)/` junto al archivo del proyecto
 - Detección de duplicados (mismo archivo ya importado o ya en Footage)
 - Favoritos, búsqueda, menú contextual y ajustes persistentes
@@ -54,7 +54,7 @@ En **Premiere Pro**, los imports van al bin **MediaVault** del panel de proyecto
 ### 1. Clonar o descargar
 
 ```bash
-git clone https://github.com/Animateoo/MediaVault.git
+git clone https://github.com/TU_USUARIO/MediaVault.git
 ```
 
 ### 2. Copiar la carpeta del panel
@@ -121,7 +121,7 @@ Abre el panel desde:
 | **Doble clic** | Importa y (si está activo) añade al timeline / comp activa |
 | **Botón + en preview** | Igual que doble clic |
 | **Botón importar en preview** | Solo importa al proyecto, sin timeline |
-| **Arrastrar fuera del panel** (Premiere) | Inserta en la secuencia activa |
+| **Arrastrar fuera del panel** | Añade a la comp activa | Inserta en la secuencia activa |
 | **Menú contextual** | Importar, timeline, favoritos, abrir carpeta, etc. |
 
 ### 4. Ajustes recomendados
@@ -169,8 +169,8 @@ Cuando **Copiar a carpeta del proyecto** está activado (por defecto: sí):
 | Importar al proyecto | ✓ | ✓ (bin **MediaVault**) |
 | Añadir al timeline / comp | Capa en comp activa | Clip en secuencia activa (playhead) |
 | Presets `.ffx` | ✓ (capa seleccionada) | No soportado |
-| Arrastrar fuera del panel | Import / comp | Insertar en timeline |
-| Anti-duplicados en proyecto | — | ✓ (detecta clip ya importado) |
+| Arrastrar fuera del panel | Añade a comp activa | Insertar en timeline |
+| Anti-duplicados en proyecto | ✓ (detecta footage ya importado) | ✓ (detecta clip ya importado) |
 
 ---
 
@@ -207,6 +207,13 @@ La configuración del usuario se guarda en:
 - Usa **Reescanear biblioteca** si añades archivos fuera del panel
 
 ---
+
+## Licencia
+
+Consulta el archivo `LICENSE` en este repositorio (si aplica).
+
+---
+
 ## Autor
 
 **MediaVault** — creado por **Animateoo**
