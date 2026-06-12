@@ -1,4 +1,6 @@
 # MediaVault
+<img width="1011" height="517" alt="MediaVault" src="https://github.com/user-attachments/assets/4a7de7e1-2198-40fa-b983-8490b2633c6f" />
+
 
 **Panel CEP para After Effects y Premiere Pro que centraliza tu biblioteca de medios, con preview, importación inteligente y acceso directo al timeline.**
 
