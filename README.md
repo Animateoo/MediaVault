@@ -50,10 +50,9 @@ En **Premiere Pro**, los imports van al bin **MediaVault** del panel de proyecto
 
 ## Instalación
 
-### 1. Clonar o descargar
+### 1. Descargar
+Archivos reporsitorios que encuentres unas de esas que quieras si en la carpeta o la instalación ZXP
 
-```bash
-git clone https://github.com/TU_USUARIO/MediaVault.git
 ```
 
 ### 2. Copiar la carpeta del panel
