@@ -229,7 +229,7 @@ Este plugin es gratuito y ha sido desarrollado por Mateo Crespo (Animateo).
 Puedes:
 
 * Utilizar el plugin en proyectos personales y comerciales.
-* Revisar y aprender del código fuente.
+* Proponer optimizaciones o nuevas funciones.
 * Reportar errores y sugerir mejoras.
 * Compartir optimizaciones, correcciones o nuevas funciones con el autor.
 
@@ -240,6 +240,6 @@ No está permitido:
 * Eliminar los créditos del autor original.
 * Publicar versiones modificadas sin autorización previa.
 
-Si realizas mejoras o correcciones, te agradecería que las compartieras para evaluarlas e incorporarlas a la versión oficial, beneficiando a toda la comunidad.
+Si identificas una mejora, corrección o optimización, por favor comunícate con el autor para revisarla e incorporarla a la versión oficial.
 
 Autor: Mateo Crespo (Animateo)
